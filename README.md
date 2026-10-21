@@ -7,4 +7,4 @@ Setup Instructions:
 Streamlit is at this link: https://nba-gamesstats-analysis.streamlit.app/
 Key Limitations: 
 
-AI-Use Disclosure: I used AI to debug Python code and to write the code of the Streamlit application. A representative prompt for debugging is "what does this error message mean". A representative prompt for writing the Streamlit application is "Make a heatmap comparing the Pearson correlation of the features in this data frame, and add it as a tab in the Streamlit application" 
+AI-Use Disclosure: I used AI to debug Python code, research some Python code, and to write the code of the Streamlit application. A representative prompt for debugging is "what does this error message mean". A representative prompt for researching code is "what parameters does the seaborn KDE plot take". A representative prompt for writing the Streamlit application is "Make a heatmap comparing the Pearson correlation of the features in this data frame, and add it as a tab in the Streamlit application" The model I used was Claude Opus 5.5
