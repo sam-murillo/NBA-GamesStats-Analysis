@@ -4,7 +4,7 @@ Project Purpose: The purpose of this project is addre is addressing is curiosity
 Data access: My data was sourced from Kaggle. Within the Kaggle, I am specifically using the "TeamStatisticsExtended.csv" the link to the Kaggle is: https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores/data 
 
 Setup Instructions: 
-
+Streamlit is at this link: https://nba-gamesstats-analysis.streamlit.app/
 Key Limitations: 
 
 AI-Use Disclosure: I used AI to debug Python code and to write the code of the Streamlit application. A representative prompt for debugging is "what does this error message mean". A representative prompt for writing the Streamlit application is "Make a heatmap comparing the Pearson correlation of the features in this data frame, and add it as a tab in the Streamlit application" 
